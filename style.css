@@ -1,0 +1,29 @@
+.contener {
+    background: url(1371249987_hui-znaet.jpg) no-repeat;
+     height: 100vh;
+     background-size: cover;
+
+}
+.header {
+    color:green;
+    margin: 0 0 0 600px;
+    
+}
+
+.part-2 {
+    font-size: 1.7rem;
+    margin-top: 50 cpx;
+}
+.text-chapter-2 {
+    font-size: 2.5rem;
+    margin-top: 50 cpx;
+}
+.contener-chapter-2 {
+    background: url(screen-0.jpg) no-repeat;
+    height: 100vh;
+     background-size: cover;
+}
+.chapter-2 {
+    margin: 0 0 0 600px;
+    color:green;
+}
